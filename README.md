@@ -1,5 +1,5 @@
 # 💫 About Me:
-👾 *Aryan Upadhyay* | 2nd-year B.Tech CSE @ UPES<br><br>💻 Coding ninja with a love for algorithms, AI, and full-stack magic. Diving deep into AI and generative tech to push the boundaries of what's possible. Always up for hacking together innovative solutions and making an impact. Let's build the future. 🚀
+👾 *Aryan Upadhyay* | 3rd-year B.Tech CSE @ UPES<br><br>💻 Coding ninja with a love for algorithms, AI, and full-stack magic. Diving deep into AI and generative tech to push the boundaries of what's possible. Always up for hacking together innovative solutions and making an impact. Let's build the future. 🚀
 
 
 ## 🌐 Socials:
